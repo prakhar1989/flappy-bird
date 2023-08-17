@@ -9,8 +9,7 @@ Flappy bird in JS. Used to test Project IDX - https://idx.dev
   <img
     alt="Open in Monospace"
     src="https://www.gstatic.com/monospace/230815/openinprojectidx.png"
-    width="120"
-    height="24"
+    width="170"
   />
 </a>
 
